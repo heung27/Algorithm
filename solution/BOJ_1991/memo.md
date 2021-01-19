@@ -1,6 +1,6 @@
 ### classification
-* 트리
-* 재귀
+* Tree
+* Recursion
 
 ### remind
 * preorder
