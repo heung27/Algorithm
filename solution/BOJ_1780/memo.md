@@ -5,4 +5,4 @@
 * divide and conquer
 
 ### link
-https://www.acmicpc.net/problem/1780
+* https://www.acmicpc.net/problem/1780
