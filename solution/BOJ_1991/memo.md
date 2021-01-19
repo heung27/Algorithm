@@ -3,9 +3,9 @@
 * Recursion
 
 ### remind
-* preorder
-* inorder
-* postorder
+* Preorder
+* Inorder
+* Postorder
 
 ### link
 https://www.acmicpc.net/problem/1991
