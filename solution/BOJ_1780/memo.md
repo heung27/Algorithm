@@ -1,8 +1,8 @@
 ### classification
-* 분할 정복
+* Divide and conquer
 
 ### remind
-* divide and conquer
+* Divide and conquer
 
 ### link
 https://www.acmicpc.net/problem/1780
