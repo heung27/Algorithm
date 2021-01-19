@@ -1,6 +1,6 @@
 ### classification
-* 구현
-* 브루트포스 알고리즘
+* Implementation
+* Brute force algorithm
 
 ### remind
 * str.equals
