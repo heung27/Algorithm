@@ -6,6 +6,7 @@ import java.io.IOException;
 
 public class BOJ_1991 {
 	static int[][] map;
+	
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int num = Integer.parseInt(br.readLine());
