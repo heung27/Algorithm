@@ -73,7 +73,6 @@ public class BOJ_2615 {
 				return true;
 			}
 		}
-		
 		return false;
 	}
 }
