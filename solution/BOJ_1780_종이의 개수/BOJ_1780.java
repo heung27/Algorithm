@@ -50,6 +50,3 @@ public class BOJ_1780 {
 		else cnt[current+1]++;
 	}
 }
-
-
-
