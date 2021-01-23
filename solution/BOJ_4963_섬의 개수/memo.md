@@ -12,5 +12,3 @@
 
 ### link
 https://www.acmicpc.net/problem/4963
-ㅇ
-ㅇㅇ
