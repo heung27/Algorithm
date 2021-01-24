@@ -1,7 +1,5 @@
 package com.ssafy.product;
 
-import java.util.Arrays;
-
 public class ProductMgr {
 	private static ProductMgr manager;
 	
@@ -32,15 +30,16 @@ public class ProductMgr {
 	
 	public void list(int num) {
 		for (int i=0; i<cur; i++) {
-			if (products[i].number == num) {
+			if (products[i].getNumber() == num) {
 				System.out.println(products[i]);
+				break;
 			}
 		}
 	}
 	
 	public void delete(int num) {
 		for (int i=0; i<cur; i++) {
-			if (products[i].number == num) {
+			if (products[i].getNumber() == num) {
 				for (int j=i; j<cur-1; j++) {
 					products[j] = products[j+1];
 				}
@@ -53,7 +52,7 @@ public class ProductMgr {
 	
 	public void priceList(int price) {
 		for (int i=0; i<cur; i++) {
-			if (products[i].price < price) {
+			if (products[i].getPrice() <= price) {
 				System.out.println(products[i]);
 			}
 		}
