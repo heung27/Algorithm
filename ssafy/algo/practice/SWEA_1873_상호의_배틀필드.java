@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
-public class SWEA_상호의_배틀필드 {
+public class SWEA_1873_상호의_배틀필드 {
 	public static int[] moveX = {0, 1, 0, -1}; // 오른쪽, 아래, 왼쪽, 위
 	public static int[] moveY = {1, 0, -1, 0};
 	public static char[][] map;

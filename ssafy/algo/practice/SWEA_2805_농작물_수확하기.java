@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class SWEA_농작물_수확하기 {
+public class SWEA_2805_농작물_수확하기 {
 	public static int[][] map;
 	public static int answer;
 	public static int num;
