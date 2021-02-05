@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.Stack;
 import java.util.StringTokenizer;
 
-public class SWEA_1218_괄호짝짖기 {
+public class SWEA_1218_괄호_짝짓기 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		for (int t=1; t<=10; t++) {
