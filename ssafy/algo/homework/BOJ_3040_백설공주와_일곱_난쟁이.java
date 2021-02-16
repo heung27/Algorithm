@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BOJ_3040_백설_공주와_일곱_난쟁이 {
+public class BOJ_3040_백설공주와_일곱_난쟁이 {
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	static StringBuilder sb = new StringBuilder();
 	static StringTokenizer st;
@@ -14,7 +14,7 @@ public class BOJ_3040_백설_공주와_일곱_난쟁이 {
 	
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		for (int i=0; i<9; i++) {
-			num[i] = Integer.parseInt(br.readLine()w);
+			num[i] = Integer.parseInt(br.readLine());
 		}
 		combination(0, 0, 0);
 		for (int i=0; i<7; i++) {
