@@ -1,0 +1,25 @@
+Concurrent : 어떤 Job이 여러 개 동시에 처리된다는 개념
+
+Parallel : 어떤 하나의 Job을 쪼개서 여러 Sub-Job으로 나누고, 이를 물리적으로 분리된 구조에서 동시에 처리하여 완성하는 개념
+
+
+Q. Main Thread는 start() 시킨 모든 Thread들이 종료된 후에 종료되나요?
+
+A. 아닙니다. 하지만 main()가 종료되어도 실행 중인 다른 Thread가 모두 종료되어야 JVM의 실행이 종료된다.
+
+
+Q. Thread 객체를 한 개만 만들고, start() method를 두번 호출하면 어떻게 될까요?
+
+A. 오류가 발생한다. Exception을 발생시키고 그 Thread는 종료된다.
+
+
+Q. Thread 안에서 또 다른 Thread를 실행시킬 수 있나요?
+
+A. 가능합니다. 단, 공유 자원에 대한 각별한 주의가 필요하다.
+
+
+JVM가 Thread를 관리하는 것이 아님. Thread는 OS가 관리. ??
+
+Thread의 동기화를 구현하는 방법
+1. 공유자원을 사용하는 중요 Job을 수행하는 Method 자체를 synchronized로 만듦
+2. Method 내 블럭을 지정해서 synchronized로 만듦
