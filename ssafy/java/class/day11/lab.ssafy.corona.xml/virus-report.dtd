@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT virus-report (author, about,date)>
+<!ELEMENT date (year,month,day)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT about (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT month (#PCDATA)>
+<!ELEMENT day (#PCDATA)>

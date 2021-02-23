@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE virus-report SYSTEM "virus-report.dtd">
+<virus-report>
+	<author>SSAFY</author>
+	<about>COVID-19</about>
+	<date>
+		<year>2020</year>
+		<month>03</month>
+		<day>26</day>
+	</date>
+</virus-report>
