@@ -5,10 +5,8 @@
 * 그래프 탐색
 * 너비 우선 탐색
 
-
 ## link
 https://www.acmicpc.net/problem/10942
-
 
 ## code
 ```java
