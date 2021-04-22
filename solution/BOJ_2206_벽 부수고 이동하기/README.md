@@ -1,9 +1,9 @@
 # <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30"> 2206. 벽 부수고 이동하기
 
 ## classification
-> 그래프 이론
-> 그래프 탐색
-> 너비 우선 탐색
+* 그래프 이론
+* 그래프 탐색
+* 너비 우선 탐색
 
 
 ## link
