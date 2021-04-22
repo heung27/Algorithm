@@ -7,7 +7,7 @@
 
 
 ## link
-> https://www.acmicpc.net/problem/10942
+https://www.acmicpc.net/problem/10942
 
 
 ## code
