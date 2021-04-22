@@ -1,12 +1,16 @@
-## <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30"> 2206. 벽 부수고 이동하기
+# <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30"> 2206. 벽 부수고 이동하기
 
-### classification
-> 문자열
+## classification
+> 그래프 이론
+> 그래프 탐색
+> 너비 우선 탐색
 
-### link
+
+## link
 > https://www.acmicpc.net/problem/10942
 
-### code
+
+## code
 ```java
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
