@@ -5,9 +5,6 @@
 * 그래프 탐색
 * 너비 우선 탐색
 
-## link
-https://www.acmicpc.net/problem/10942
-
 ## code
 ```java
 import java.io.BufferedReader;
@@ -100,3 +97,6 @@ public class BOJ_2206_벽_부수고_이동하기 {
 	}
 }
 ```
+
+## link
+> https://www.acmicpc.net/problem/10942
