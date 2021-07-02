@@ -1,6 +1,6 @@
-# algorithm
+# Algorithm
 
-* baekjoon
-* programmers
-* jungol
-* sw expert academy
+* Baekjoon
+* Programmers
+* Jungol
+* SW Expert Academy
