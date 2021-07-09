@@ -4,4 +4,3 @@
 * Programmers
 * Jungol
 * SW Expert Academy
- 
