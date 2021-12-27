@@ -1,13 +1,3 @@
-# <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30"> 16938. 캠프 준비
-
-## Classification
-* 수학
-* 브루트포스 알고리즘
-* 조합론
-* 백트래킹
-
-## Code
-```java
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
@@ -60,7 +50,3 @@ public class BOJ_16938_캠프_준비 {
 		dfs(cnt+1, min, max, sum+list[cnt]);
 	}
 }
-```
-
-## Link
-> https://www.acmicpc.net/problem/16938
